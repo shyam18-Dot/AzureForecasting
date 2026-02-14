@@ -25,7 +25,7 @@ A synthetic 26-month daily time-series dataset was created to simulate realistic
 - **availability_pct** – Service uptime percentage
 - **is_weekend** – Weekend indicator
 - **utilization_pct** – Capacity utilization efficiency
-- 
+  
 - # Project Workflow
 
 1. Dataset Generation
